@@ -14,4 +14,18 @@ __pycache__/
 *~
 \#*\#
 
+###############
+# PROJ SPECIFIC
+###############
+
+/users/*
+
+/builds/*
+
+dist/
+
+venv/
+
+'*'
+
 .ropeproject/
